@@ -30,27 +30,27 @@ pip install requests
 ### 3. Run the tool
 python pentest_toolkit.py
 
-🖥️ Usage
+### 🖥️ Usage
 When you run the script, you'll see this menu:
 1. Port Scanner
 2. Brute Force Login
-🔍 Port Scanner
+### 🔍 Port Scanner
 Input: Target IP or domain
 
 Output: List of open ports between 1–1024
 
-🔐 Brute Forcer
+### 🔐 Brute Forcer
 Input: Login URL, username, field names, and password list
 
 Output: First successful login (if any)
 
-📁 Files
+### 📁 Files
 File	Description
-pentest_toolkit.py	Main script combining all functionality
-requirements.txt	Required Python packages (requests)
-README.md	You're reading it!
+pentest_toolkit.py	  Main script combining all functionality
+requirements.txt	    Required Python packages (requests)
+README.md	            You're reading it!
 
-⚠️ Legal Notice
+### ⚠️ Legal Notice
 This tool is intended for educational purposes only.
 Do not use it on any system or network without explicit authorization.
 
