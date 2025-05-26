@@ -21,15 +21,15 @@ A simple modular **Python-based penetration testing toolkit** that includes:
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-
-```bash
 git clone https://github.com/YOUR_USERNAME/penetration-testing-toolkit.git
 cd penetration-testing-toolkit
 
 2. Install requirements
 pip install requests
-3. Run the tool
+
+4. Run the tool
 python pentest_toolkit.py
+
 🖥️ Usage
 When you run the script, you'll see this menu:
 1. Port Scanner
