@@ -24,10 +24,10 @@ A simple modular **Python-based penetration testing toolkit** that includes:
 git clone https://github.com/YOUR_USERNAME/penetration-testing-toolkit.git
 cd penetration-testing-toolkit
 
-2. Install requirements
+### 2. Install requirements
 pip install requests
 
-4. Run the tool
+### 3. Run the tool
 python pentest_toolkit.py
 
 🖥️ Usage
@@ -53,3 +53,7 @@ README.md	You're reading it!
 ⚠️ Legal Notice
 This tool is intended for educational purposes only.
 Do not use it on any system or network without explicit authorization.
+
+
+
+
